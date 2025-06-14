@@ -24,5 +24,6 @@ Computer Science Engineering student skilled in front-end development, UI/UX des
 [![](https://visitcount.itsvg.in/api?id=AKSHAYKARTHICKS&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![snake gif](https://raw.githubusercontent.com/akshaykarthicks/akshaykarthicks/output/github-snake-dark.svg)
+![GitHub Snake - Dark](https://raw.githubusercontent.com/akshaykarthicks/akshaykarthicks/output/github-snake-dark.svg)
+
 
