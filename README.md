@@ -23,4 +23,6 @@ Computer Science Engineering student skilled in front-end development, UI/UX des
 ---
 [![](https://visitcount.itsvg.in/api?id=AKSHAYKARTHICKS&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg)
+
