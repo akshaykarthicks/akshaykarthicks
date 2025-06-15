@@ -23,8 +23,17 @@ Computer Science Engineering student skilled in front-end development, UI/UX des
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🔝 Top Contributed Repos & Most Used Languages
-<div align="center"> <table> <tr> <td> <img src="https://github-contributor-stats.vercel.app/api?username=AKSHAYKARTHICKS&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHAYKARTHICKS&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/> </td> </tr> </table> </div>
+<div align="center">
+
+  <div style="display: inline-block; margin: 1rem;">
+    <img src="https://github-contributor-stats.vercel.app/api?username=AKSHAYKARTHICKS&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+  </div>
+
+  <div style="display: inline-block; margin: 1rem;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHAYKARTHICKS&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+  </div>
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AKSHAYKARTHICKS&icon=0&color=0)](https://visitcount.itsvg.in)
