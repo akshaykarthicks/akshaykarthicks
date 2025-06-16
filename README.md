@@ -1,6 +1,6 @@
 Hi There !!
-Akshay Karthick S
-Computer Science Engineering student skilled in front-end development, UI/UX design, and Python programming
+Akshay Karthick S,
+Highly motivated Computer Science Engineering student with a strong foundation in front-end web development, UI/UX design, Python programming, and Django development. Passionate about building innovative, user-centric projects and continuously exploring emerging technologies, including AI tools. Eager to contribute to impactful solutions while constantly expanding technical and creative skillsets.
 
 🔗 [Check out my Portfolio](https://akshaykarthicks.github.io/AKS/)
 
