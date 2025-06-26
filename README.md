@@ -33,7 +33,3 @@ Highly motivated Computer Science Engineering student with a strong foundation i
 [![](https://visitcount.itsvg.in/api?id=AKSHAYKARTHICKS&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![GitHub Snake - Dark](https://raw.githubusercontent.com/akshaykarthicks/akshaykarthicks/output/github-snake-dark.svg)
-
-
-
