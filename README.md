@@ -34,11 +34,12 @@ Highly motivated Computer Science Engineering student with a strong foundation i
 
     🎯 PromptHub
     An AI-prompt-focused community where users can create, share, search, upvote, and refine prompts for LLMs (like ChatGPT, Gemini, Claude, etc.). Think “Reddit + GitHub for AI prompts.” Built with Django.
-
+    https://prompthub-2w8c.onrender.com  
+  
     📘 ReflectSpace
     A modern diary and timeline web application built with Django. Users can create mood-based journal entries and visualize their emotional journey over time in a clean, intuitive interface.
-
+    https://reflectspace.onrender.com
     ⏳ Time Capsule
     A modern Django web app to preserve and deliver your memories to the future. Create time capsules with messages, media, and recipients, and have them delivered on a chosen future date.
-
+    https://time-capsule-xjtz.onrender.com
 
