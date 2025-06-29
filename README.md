@@ -30,9 +30,6 @@ Highly motivated Computer Science Engineering student with a strong foundation i
   <div style="display: inline-block; margin: 1rem;">
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AKSHAYKARTHICKS&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 🚀 Projects
 
     🎯 PromptHub
