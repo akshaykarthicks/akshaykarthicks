@@ -27,8 +27,6 @@ Highly motivated Computer Science Engineering student with a strong foundation i
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-  <div style="display: inline-block; margin: 1rem;">
-
 ---
 🚀 Projects
 
