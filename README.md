@@ -38,7 +38,7 @@ An AI-prompt-focused community where users can create, share, search, upvote, an
 📘 ReflectSpace – [**Live Demo**](https://reflectspace.onrender.com)  
 A modern diary and timeline web application built with Django. Users can create mood-based journal entries and visualize their emotional journey over time in a clean, intuitive interface.
 
-⏳ Time Capsule –[** Live Demo**](https://time-capsule-xjtz.onrender.com)  
+⏳ Time Capsule –[**Live Demo**](https://time-capsule-xjtz.onrender.com)  
 A modern Django web app to preserve and deliver your memories to the future. Create time capsules with messages, media, and recipients, and have them delivered on a chosen future date.
 
 
