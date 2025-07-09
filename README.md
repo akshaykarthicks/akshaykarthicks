@@ -29,6 +29,8 @@ Highly motivated Computer Science Engineering student with a strong foundation i
 
 ---
 ## 🚀 Live Projects
+📆 [**Habit Tracker – Live Demo**](https://forgenest.vercel.app/)  
+Track your daily habit completions with a dynamic contribution calendar. Includes streak-based challenges to keep users motivated.
 
 🎯 [**PromptHub – Live Demo**](https://prompthub-2w8c.onrender.com)  
 An AI-prompt-focused community where users can create, share, search, upvote, and refine prompts for LLMs (like ChatGPT, Gemini, Claude, etc.). Think “Reddit + GitHub for AI prompts.” Built with Django.
@@ -39,5 +41,4 @@ A modern diary and timeline web application built with Django. Users can create 
 ⏳ [**Time Capsule – Live Demo**](https://time-capsule-xjtz.onrender.com)  
 A modern Django web app to preserve and deliver your memories to the future. Create time capsules with messages, media, and recipients, and have them delivered on a chosen future date.
 
-📆 [**Habit Tracker – Live Demo**](https://forgenest.vercel.app/)  
-Track your daily habit completions with a dynamic contribution calendar. Includes streak-based challenges to keep users motivated.
+
