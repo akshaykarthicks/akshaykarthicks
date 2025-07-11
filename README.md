@@ -19,8 +19,7 @@ Highly motivated Computer Science Engineering student with a strong foundation i
 </div>
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AKSHAYKARTHICKS&limit=5&theme=dark&combine_all_yearly_contributions=true)     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHAYKARTHICKS&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
-
+![](https://github-contributor-stats.vercel.app/api?username=AKSHAYKARTHICKS&limit=5&theme=dark&combine_all_yearly_contributions=true)    
 
 
 
