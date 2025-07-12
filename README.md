@@ -22,11 +22,6 @@ Highly motivated Computer Science Engineering student with a strong foundation i
 ![](https://github-contributor-stats.vercel.app/api?username=AKSHAYKARTHICKS&limit=5&theme=dark&combine_all_yearly_contributions=true)    
 
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 ## 🚀 Live Projects
 📆 Habit Tracker – [**Live Demo**](https://forgenest.vercel.app/)  
 Track your daily habit completions with a dynamic contribution calendar. Includes streak-based challenges to keep users motivated.
@@ -39,5 +34,10 @@ A modern diary and timeline web application built with Django. Users can create 
 
 ⏳ Time Capsule –[**Live Demo**](https://time-capsule-xjtz.onrender.com)  
 A modern Django web app to preserve and deliver your memories to the future. Create time capsules with messages, media, and recipients, and have them delivered on a chosen future date.
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 
 
