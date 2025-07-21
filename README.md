@@ -34,16 +34,26 @@ Highly motivated Computer Science Engineering student with a strong foundation i
 Boost your productivity with an intelligent task tracker powered by AI. Organize to-dos, get smart suggestions, and visualize progress with a clean, user-friendly interface.
 
 📆 Habit Tracker – [**Live Demo**](https://forgenest.vercel.app/)  
+
 Track your daily habit completions with a dynamic contribution calendar. Includes streak-based challenges to keep users motivated.
 
-🎯 PromptHub – [**Live Demo**](https://prompthub-2w8c.onrender.com)  
+🎯 PromptHub – [**Live Demo**](https://prompthub-2w8c.onrender.com) 
+
 An AI-prompt-focused community where users can create, share, search, upvote, and refine prompts for LLMs (like ChatGPT, Gemini, Claude, etc.). Think “Reddit + GitHub for AI prompts.” Built with Django.
 
-📘 ReflectSpace – [**Live Demo**](https://reflectspace.onrender.com)  
+📘 ReflectSpace – [**Live Demo**](https://reflectspace.onrender.com) 
+
 A modern diary and timeline web application built with Django. Users can create mood-based journal entries and visualize their emotional journey over time in a clean, intuitive interface.
 
-⏳ Time Capsule –[**Live Demo**](https://time-capsule-xjtz.onrender.com)  
+⏳ Time Capsule –[**Live Demo**](https://time-capsule-xjtz.onrender.com) 
+
 A modern Django web app to preserve and deliver your memories to the future. Create time capsules with messages, media, and recipients, and have them delivered on a chosen future date.
+
+🤖 AI Agents – [**GitHub**](https://github.com/stars/akshaykarthicks/lists/ai-agent)
+
+A curated collection of AI-powered agents integrated with n8n, enabling automation workflows with natural language understanding. These agents can interact with APIs, store memory, generate content, and act on your behalf combining low-code logic with LLM intelligence.
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
