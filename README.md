@@ -23,6 +23,9 @@ Highly motivated Computer Science Engineering student with a strong foundation i
 
 
 ## 🚀 Live Projects
+📆 Taskly AI – [**Live Demo**](https://taskly-ai-five.vercel.app/)
+Boost your productivity with an intelligent task tracker powered by AI. Organize to-dos, get smart suggestions, and visualize progress with a clean, user-friendly interface.
+
 📆 Habit Tracker – [**Live Demo**](https://forgenest.vercel.app/)  
 Track your daily habit completions with a dynamic contribution calendar. Includes streak-based challenges to keep users motivated.
 
