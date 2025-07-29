@@ -53,7 +53,9 @@ A modern Django web app to preserve and deliver your memories to the future. Cre
 
 A curated collection of AI-powered agents integrated with n8n, enabling automation workflows with natural language understanding. These agents can interact with APIs, store memory, generate content, and act on your behalf combining low-code logic with LLM intelligence.
 
+## 🚀 Other Projects
 
+Check Github repo lists - [Stars](https://github.com/akshaykarthicks?tab=stars)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
