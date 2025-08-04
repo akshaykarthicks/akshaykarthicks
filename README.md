@@ -56,6 +56,8 @@ A curated collection of AI-powered agents integrated with n8n, enabling automati
 ## 🚀 Other Projects
 
 Check Github repo lists - [Stars](https://github.com/akshaykarthicks?tab=stars)
+<img width="930" height="375" alt="image" src="https://github.com/user-attachments/assets/f5df2819-6ba8-4f69-bf09-3d6e1ff7e275" />
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
