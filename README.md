@@ -1,4 +1,4 @@
-# Hi there! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Welcome+to+my+GitHub!;I+am+Akshay+Karthick+S&font=Fira+Code&center=true&width=450&height=70&duration=3500&pause=1000&size=28&color=36BCF7&vCenter=true)](https://github.com/AKshayyyy-ak)
 
 
 <p align="left">
@@ -74,33 +74,56 @@
 <!-- Live Projects Section -->
 <h2 align="center">Featured Projects</h2>
 
-<ul>
-  <li>
-    <b>Taskly AI</b> – <a href="https://taskly-ai-five.vercel.app/">Live Demo</a><br>
-    <i>Boost productivity with an intelligent AI-powered task tracker. Organize to-dos, get smart suggestions, and visualize progress.</i>
-  </li>
-  <li>
-    <b>Habit Tracker</b> – <a href="https://forgenest.vercel.app/">Live Demo</a><br>
-    <i>Track daily habits with a dynamic calendar and streak challenges to stay motivated.</i>
-  </li>
-  <li>
-    <b>PromptHub</b> – <a href="https://prompthub-2w8c.onrender.com">Live Demo</a><br>
-    <i>Community for creating and refining prompts for LLMs. Think “Reddit + GitHub for AI prompts”.</i>
-  </li>
-  <li>
-    <b>ReflectSpace</b> – <a href="https://reflectspace.onrender.com">Live Demo</a><br>
-    <i>Modern diary & timeline app for mood-based journaling and emotional tracking.</i>
-  </li>
-  <li>
-    <b>Time Capsule</b> – <a href="https://time-capsule-xjtz.onrender.com">Live Demo</a><br>
-    <i>Preserve memories for the future. Create time capsules with messages, media, and recipients.</i>
-  </li>
-  <li>
-    <b>AI Agents</b> – <a href="https://github.com/stars/akshaykarthicks/lists/ai-agent">GitHub List</a><br>
-    <i>Curated AI-powered agents integrated with n8n and CrewAI for automation workflows. Check the pins below!</i>
-  </li>
-</ul>
-
+<table>
+  <tr>
+    <td width="300" valign="top" style="border:1px solid #ddd; border-radius:8px; padding:16px; background:#1F222E;">
+      <h3 align="center" style="margin-top:0;">Taskly AI</h3>
+      <p>
+        Boost productivity with an intelligent AI-powered task tracker.<br>
+        <a href="https://taskly-ai-five.vercel.app/" target="_blank"><b>Live Demo</b></a>
+      </p>
+    </td>
+    <td width="300" valign="top" style="border:1px solid #ddd; border-radius:8px; padding:16px; background:#1F222E;">
+      <h3 align="center" style="margin-top:0;">Habit Tracker</h3>
+      <p>
+        Track daily habits with a dynamic calendar and streak challenges.<br>
+        <a href="https://forgenest.vercel.app/" target="_blank"><b>Live Demo</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="300" valign="top" style="border:1px solid #ddd; border-radius:8px; padding:16px; background:#1F222E;">
+      <h3 align="center" style="margin-top:0;">PromptHub</h3>
+      <p>
+        Community for creating and refining prompts for LLMs.<br>
+        <a href="https://prompthub-2w8c.onrender.com" target="_blank"><b>Live Demo</b></a>
+      </p>
+    </td>
+    <td width="300" valign="top" style="border:1px solid #ddd; border-radius:8px; padding:16px; background:#1F222E;">
+      <h3 align="center" style="margin-top:0;">ReflectSpace</h3>
+      <p>
+        Modern diary & timeline app for mood-based journaling and emotional tracking.<br>
+        <a href="https://reflectspace.onrender.com" target="_blank"><b>Live Demo</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="300" valign="top" style="border:1px solid #ddd; border-radius:8px; padding:16px; background:#1F222E;">
+      <h3 align="center" style="margin-top:0;">Time Capsule</h3>
+      <p>
+        Preserve memories for the future. Create time capsules with messages, media, and recipients.<br>
+        <a href="https://time-capsule-xjtz.onrender.com" target="_blank"><b>Live Demo</b></a>
+      </p>
+    </td>
+    <td width="300" valign="top" style="border:1px solid #ddd; border-radius:8px; padding:16px; background:#1F222E;">
+      <h3 align="center" style="margin-top:0;">AI Agents</h3>
+      <p>
+        Curated AI-powered agents integrated with n8n and CrewAI for automation workflows.<br>
+        <a href="https://github.com/stars/akshaykarthicks/lists/ai-agent" target="_blank"><b>GitHub List</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 ---
 
 <!-- Starred & Other Projects -->
