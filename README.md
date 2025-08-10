@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Welcome+to+my+GitHub!;I+am+Akshay+Karthick+S&font=Fira+Code&center=true&width=450&height=70&duration=3500&pause=1000&size=28&color=36BCF7&vCenter=true)](https://github.com/AKshayyyy-ak)
+<p align="center">
+  <a href="https://github.com/Akshaykarthicks">
+    <img src="https://readme-typing-svg.demolab.com?lines=Hey+there!;Akshay+here.&font=Fira+Code&center=true&width=350&height=70&duration=3000&pause=1000&size=28&color=36BCF7&vCenter=true" alt="Typing SVG" />
+  </a>
+</p>
 
 
 <p align="left">
@@ -10,13 +14,13 @@
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
-  <a href="https://instagram.com/_.aksy._"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/akshay-karthick-s"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://reddit.com/user/aksy_1"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" /></a>
-  <a href="mailto:akshaykarthick01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://ak-sy.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" /></a>
-</p>
+  <p align="center">
+    <a href="https://instagram.com/_.aksy._"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/akshay-karthick-s"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+    <a href="https://reddit.com/user/aksy_1"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" /></a>
+    <a href="mailto:akshaykarthick01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+    <a href="https://ak-sy.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" /></a>
+  </p>
 
 
 <!-- Tech Stack Animated Banner -->
