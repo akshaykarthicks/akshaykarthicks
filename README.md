@@ -73,67 +73,112 @@
 
 <!-- Live Projects Section -->
 <h2 align="center">Featured Projects</h2>
+<div align="center">
 
 <table>
   <tr>
-    <td width="300" valign="top" style="border:1px solid #ddd; border-radius:8px; padding:16px; background:#1F222E;">
-      <h3 align="center" style="margin-top:0;">Taskly AI</h3>
-      <p>
-        Boost productivity with an intelligent AI-powered task tracker.<br>
-        <a href="https://taskly-ai-five.vercel.app/" target="_blank"><b>Live Demo</b></a>
+    <td width="300" valign="top" style="border:1px solid #222; border-radius:8px; padding:16px; background:#191C22;">
+      <h3 align="center" style="margin-top:0; color:#F2F2F2;">Taskly AI</h3>
+      <p>Boost productivity with an intelligent AI-powered task tracker.</p>
+      <p align="center">
+        <a href="https://taskly-ai-five.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+        </a>
       </p>
     </td>
-    <td width="300" valign="top" style="border:1px solid #ddd; border-radius:8px; padding:16px; background:#1F222E;">
-      <h3 align="center" style="margin-top:0;">Habit Tracker</h3>
-      <p>
-        Track daily habits with a dynamic calendar and streak challenges.<br>
-        <a href="https://forgenest.vercel.app/" target="_blank"><b>Live Demo</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="300" valign="top" style="border:1px solid #ddd; border-radius:8px; padding:16px; background:#1F222E;">
-      <h3 align="center" style="margin-top:0;">PromptHub</h3>
-      <p>
-        Community for creating and refining prompts for LLMs.<br>
-        <a href="https://prompthub-2w8c.onrender.com" target="_blank"><b>Live Demo</b></a>
-      </p>
-    </td>
-    <td width="300" valign="top" style="border:1px solid #ddd; border-radius:8px; padding:16px; background:#1F222E;">
-      <h3 align="center" style="margin-top:0;">ReflectSpace</h3>
-      <p>
-        Modern diary & timeline app for mood-based journaling and emotional tracking.<br>
-        <a href="https://reflectspace.onrender.com" target="_blank"><b>Live Demo</b></a>
+    <td width="300" valign="top" style="border:1px solid #222; border-radius:8px; padding:16px; background:#191C22;">
+      <h3 align="center" style="margin-top:0; color:#F2F2F2;">Habit Tracker</h3>
+      <p>Track daily habits with a dynamic calendar and streak challenges.</p>
+      <p align="center">
+        <a href="https://forgenest.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+        </a>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="300" valign="top" style="border:1px solid #ddd; border-radius:8px; padding:16px; background:#1F222E;">
-      <h3 align="center" style="margin-top:0;">Time Capsule</h3>
-      <p>
-        Preserve memories for the future. Create time capsules with messages, media, and recipients.<br>
-        <a href="https://time-capsule-xjtz.onrender.com" target="_blank"><b>Live Demo</b></a>
+    <td width="300" valign="top" style="border:1px solid #222; border-radius:8px; padding:16px; background:#191C22;">
+      <h3 align="center" style="margin-top:0; color:#F2F2F2;">PromptHub</h3>
+      <p>Community for creating and refining prompts for LLMs.</p>
+      <p align="center">
+        <a href="https://prompthub-2w8c.onrender.com" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+        </a>
       </p>
     </td>
-    <td width="300" valign="top" style="border:1px solid #ddd; border-radius:8px; padding:16px; background:#1F222E;">
-      <h3 align="center" style="margin-top:0;">AI Agents</h3>
-      <p>
-        Curated AI-powered agents integrated with n8n and CrewAI for automation workflows.<br>
-        <a href="https://github.com/stars/akshaykarthicks/lists/ai-agent" target="_blank"><b>GitHub List</b></a>
+    <td width="300" valign="top" style="border:1px solid #222; border-radius:8px; padding:16px; background:#191C22;">
+      <h3 align="center" style="margin-top:0; color:#F2F2F2;">ReflectSpace</h3>
+      <p>Modern diary & timeline app for mood-based journaling and emotional tracking.</p>
+      <p align="center">
+        <a href="https://reflectspace.onrender.com" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="300" valign="top" style="border:1px solid #222; border-radius:8px; padding:16px; background:#191C22;">
+      <h3 align="center" style="margin-top:0; color:#F2F2F2;">Time Capsule</h3>
+      <p>Preserve memories for the future. Create time capsules with messages, media, and recipients.</p>
+      <p align="center">
+        <a href="https://time-capsule-xjtz.onrender.com" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+        </a>
+      </p>
+    </td>
+    <td width="300" valign="top" style="border:1px solid #222; border-radius:8px; padding:16px; background:#191C22;">
+      <h3 align="center" style="margin-top:0; color:#F2F2F2;">AI Agents</h3>
+      <p>Curated AI-powered agents integrated with n8n and CrewAI for automation workflows.</p>
+      <p align="center">
+        <a href="https://github.com/stars/akshaykarthicks/lists/ai-agent" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub%20List-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub List"/>
+        </a>
       </p>
     </td>
   </tr>
 </table>
+
+</div>
+
 ---
 
 <!-- Starred & Other Projects -->
 <h2 align="center">More Cool Stuff</h2>
-<p align="center">
-  Explore my starred repo lists: <a href="https://github.com/akshaykarthicks?tab=stars">Stars</a>
-</p>
-<p align="center">
-  <img width="930" height="375" alt="Project Preview" src="https://github.com/user-attachments/assets/f5df2819-6ba8-4f69-bf09-3d6e1ff7e275" />
-</p>
+<!-- Custom "repo card" box structure (matches your screenshot style) -->
+<details open>
+  <summary><h2 align="center">📘 My Curated GitHub Lists</h2></summary>
+
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center" width="300">
+          <a href="https://github.com/stars/akshaykarthicks/lists/crewai-agents">
+            <img width="278" src="https://img.shields.io/badge/CrewAI%20Agents-GitHub%20List-1F222E?style=for-the-badge&logo=github&logoColor=F85D7F&labelColor=1F222E&color=1F222E" alt="CrewAI Agents GitHub List">
+          </a>
+        </td>
+        <td align="center" width="300">
+          <a href="https://github.com/stars/akshaykarthicks/lists/n8n">
+            <img width="278" src="https://img.shields.io/badge/n8n%20Workflows-GitHub%20List-1F222E?style=for-the-badge&logo=github&logoColor=F85D7F&labelColor=1F222E&color=1F222E" alt="n8n Workflows GitHub List">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="300">
+          <a href="https://github.com/stars/akshaykarthicks/lists/django">
+            <img width="278" src="https://img.shields.io/badge/Django%20Projects-GitHub%20List-1F222E?style=for-the-badge&logo=github&logoColor=F85D7F&labelColor=1F222E&color=1F222E" alt="Django Projects GitHub List">
+          </a>
+        </td>
+        <td align="center" width="300">
+          <a href="https://github.com/stars/akshaykarthicks/lists/ui-desgin">
+            <img width="278" src="https://img.shields.io/badge/UI%20Design-GitHub%20List-1F222E?style=for-the-badge&logo=github&logoColor=F85D7F&labelColor=1F222E&color=1F222E" alt="UI Design GitHub List">
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
+
+
 
 ---
 
