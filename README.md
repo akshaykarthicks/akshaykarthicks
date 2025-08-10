@@ -134,7 +134,7 @@
       <h3 align="center" style="margin-top:0; color:#F2F2F2;">AI Agents</h3>
       <p>Curated AI-powered agents integrated with n8n and CrewAI for automation workflows.</p>
       <p align="center">
-        <a href="https://github.com/stars/akshaykarthicks/lists/ai-agent" target="_blank">
+        <a href="https://github.com/stars/akshaykarthicks/lists/crewai-agents" target="_blank">
           <img src="https://img.shields.io/badge/GitHub%20List-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub List"/>
         </a>
       </p>
