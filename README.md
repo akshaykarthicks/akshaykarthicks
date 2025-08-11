@@ -7,9 +7,10 @@
 
 <p align="left">
   Highly motivated Computer Science Engineering student with a strong foundation in Django, front-end development, UI/UX design, and Agentic AI.Passionate about building innovative, user-centric projects and continuously exploring emerging technologies, especially AI. Eager to contribute to impactful solutions while expanding my technical and creative skillsets.
-</p>
+</p
+  
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://akshaykarthicks.github.io/AKS/)
 
-🔗 [Check out my Portfolio](https://akshaykarthicks.github.io/AKS/)
 
 ---
 
@@ -36,22 +37,21 @@
 ---
 
 
-
 <!-- GitHub Stats and Contributions -->
-<h2 align="center">GitHub Stats & Highlights</h2>
+<h2 align="center">📊 GitHub Stats & Highlights</h2>
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
       <h3><strong>GitHub Stats</strong></h3>
       <a href="https://github.com/akshaykarthicks">
-        <img src="https://github-readme-stats.vercel.app/api?username=akshaykarthicks&title_color=8ac9ff&text_color=51f6e2&icon_color=51f6e2&bg_color=232335&ring_color=8ac9ff&border_color=232335&hide_border=true&show_icons=true" alt="Akshay's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=akshaykarthicks&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" alt="Akshay's GitHub Stats" />
       </a>
     </td>
     <td width="50%" align="center">
       <h3><strong>Streak Stats</strong></h3>
       <a href="https://github.com/akshaykarthicks">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=AKSHAYKARTHICKS&theme=radical&hide_border=true" alt="Akshay's Streak Stats" />
+        <img src="https://nirzak-streak-stats.vercel.app/?user=akshaykarthicks&theme=blue_navy&hide_border=false" alt="Akshay's Streak Stats" />
       </a>
     </td>
   </tr>
@@ -59,18 +59,22 @@
     <td align="center">
       <h3><strong>Top Languages</strong></h3>
       <a href="https://github.com/akshaykarthicks">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykarthicks&theme=radical&layout=compact&hide_border=true" alt="Akshay's Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykarthicks&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Akshay's Top Languages" />
       </a>
     </td>
     <td align="center">
       <h3><strong>Top Contributions</strong></h3>
       <a href="https://github.com/akshaykarthicks">
-        <img src="https://github-contributor-stats.vercel.app/api?username=AKSHAYKARTHICKS&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Akshay's Top Contributions" />
+        <img src="https://github-contributor-stats.vercel.app/api?username=akshaykarthicks&limit=5&theme=blue_navy&combine_all_yearly_contributions=true" alt="Akshay's Top Contributions" />
       </a>
     </td>
   </tr>
 </table>
+
 <br />
+
+
+
 
 ---
 
