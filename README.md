@@ -1,3 +1,6 @@
+<img src="https://i.pinimg.com/originals/ef/08/d1/ef08d117f320d1e142f79c4413e0a2bf.gif" width="1500px" />
+
+
 <p align="center">
   <a href="https://github.com/Akshaykarthicks">
     <img src="https://readme-typing-svg.demolab.com?lines=Hey+there!;Akshay+here.&font=Fira+Code&center=true&width=350&height=70&duration=3000&pause=1000&size=28&color=36BCF7&vCenter=true" alt="Typing SVG" />
