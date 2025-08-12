@@ -3,9 +3,11 @@
 
 <p align="center">
   <a href="https://github.com/Akshaykarthicks">
-    <img src="https://readme-typing-svg.demolab.com?lines=Hey+there!;Akshay+here.&font=Fira+Code&center=true&width=350&height=70&duration=3000&pause=1000&size=28&color=36BCF7&vCenter=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?lines=HEY+THERE!;AKSHAY+HERE!!!.&font=FIRA+CODE&center=true&width=350&height=70&duration=3000&pause=1000&size=28&color=36BCF7&vCenter=true" alt="Typing SVG" />
   </a>
 </p>
+
+
 
 
 <p align="left">
