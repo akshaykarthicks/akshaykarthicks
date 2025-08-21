@@ -114,7 +114,7 @@
       <h3 align="center" style="margin-top:0; color:#F2F2F2;">PromptHub</h3>
       <p>Community for creating and refining prompts for LLMs.</p>
       <p align="center">
-        <a href="https://prompthub-2w8c.onrender.com" target="_blank">
+        <a href="https://prompthub-umber.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
         </a>
       </p>
@@ -123,7 +123,7 @@
       <h3 align="center" style="margin-top:0; color:#F2F2F2;">ReflectSpace</h3>
       <p>Modern diary & timeline app for mood-based journaling and emotional tracking.</p>
       <p align="center">
-        <a href="https://reflectspace.onrender.com" target="_blank">
+        <a href="https://reflectspace.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
         </a>
       </p>
