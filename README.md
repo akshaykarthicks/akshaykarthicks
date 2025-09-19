@@ -133,7 +133,7 @@
   <tr>
     <td width="300" valign="top" style="border:1px solid #222; border-radius:8px; padding:16px; background:#191C22;">
       <h3 align="center" style="margin-top:0; color:#F2F2F2;">Time Capsule</h3>
-      <p>Preserve memories for the future. Create time capsules with messages, media, and recipients.</p>
+      <p>Preserve memories for the future. Create time capsules with messages, media.</p>
       <p align="center">
         <a href="https://time-capsule-xjtz.onrender.com" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
