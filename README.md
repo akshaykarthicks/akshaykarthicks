@@ -12,7 +12,7 @@
 
 
 <p align="left">
-   Computer Science Engineering student with a strong foundation in Django, front-end development, UI/UX design, and Agentic AI.Passionate about building innovative, user-centric projects and continuously exploring emerging technologies, especially AI. Eager to contribute to impactful solutions while expanding my technical and creative skillsets.
+   Computer Science Engineering student with a strong foundation in Django, front-end development, UI/UX design, and Agentic AI.Passionate about building innovative, user-centric projects and continuously exploring emerging technologies, especially AI. Eager to contribute to impactful solutions while expanding my technical and creative skillsets. :)
 </p
   
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://akshaykarthicks.github.io/AKS/)
