@@ -84,7 +84,6 @@
 
 ---
 
-
 <!-- Live Projects Section -->
 <h2 align="center">Featured Projects</h2>
 <div align="center">
@@ -150,9 +149,30 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="300" valign="top" style="border:1px solid #222; border-radius:8px; padding:16px; background:#191C22;">
+      <h3 align="center" style="margin-top:0; color:#F2F2F2;">Food Catalyst</h3>
+      <p>AI-powered food web  app that  provide choices and plaining built with CrewAI </p>
+      <p align="center">
+        <a href="https://foodcatalyst.streamlit.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-black?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
+        </a>
+      </p>
+    </td>
+    <td width="300" valign="top" style="border:1px solid #222; border-radius:8px; padding:16px; background:#191C22;">
+      <h3 align="center" style="margin-top:0; color:#F2F2F2;">StockPicker Crew</h3>
+      <p>AI-driven stock research assistant built with CrewAI for smart investment decisions.</p>
+      <p align="center">
+        <a href="https://stockpicker-crew.streamlit.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-black?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 </div>
+
 
 ---
 
