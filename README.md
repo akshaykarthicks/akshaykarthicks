@@ -12,7 +12,7 @@
 
 
 <p align="left">
-  Akshay karthick S | CS Engineer | Backend Developer | Agentic AI Developer. Building innovative, user-centric projects.... :)
+  Akshay karthick S | CS Engineer | Backend Developer | Agentic AI Developer. Building innovative, user-centric projects.,... :)
 </p
   
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://akshaykarthicks.github.io/AKS/)
