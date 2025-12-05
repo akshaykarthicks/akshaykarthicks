@@ -1,4 +1,3 @@
-
 <img src="https://i.pinimg.com/originals/ef/08/d1/ef08d117f320d1e142f79c4413e0a2bf.gif" width="1500px" />
 
 
@@ -13,7 +12,7 @@
 
 <p align="left">
   Akshay karthick S | CS Engineer | Backend Developer | Agentic AI Developer. Building innovative, user-centric projects.,... :)
-</p
+</p>
   
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://akshaykarthicks.github.io/AKS/)
 
@@ -39,48 +38,6 @@
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=django,python,react,html,css,vercel,figma,docker,supabase&theme=dark" /></a>
 </p>
-
----
-
-
-<!-- GitHub Stats and Contributions -->
-<h2 align="center">📊 GitHub Stats & Highlights</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3><strong>GitHub Stats</strong></h3>
-      <a href="https://github.com/akshaykarthicks">
-        <img src="https://github-readme-stats.vercel.app/api?username=akshaykarthicks&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" alt="Akshay's GitHub Stats" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <h3><strong>Streak Stats</strong></h3>
-      <a href="https://github.com/akshaykarthicks">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=akshaykarthicks&theme=blue_navy&hide_border=false" alt="Akshay's Streak Stats" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3><strong>Top Languages</strong></h3>
-      <a href="https://github.com/akshaykarthicks">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykarthicks&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Akshay's Top Languages" />
-      </a>
-    </td>
-    <td align="center">
-      <h3><strong>Top Contributions</strong></h3>
-      <a href="https://github.com/akshaykarthicks">
-        <img src="https://github-contributor-stats.vercel.app/api?username=akshaykarthicks&limit=5&theme=blue_navy&combine_all_yearly_contributions=true" alt="Akshay's Top Contributions" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-
-
 
 ---
 
@@ -178,7 +135,7 @@
 
 <!-- Starred & Other Projects -->
 <h2 align="center">More Cool Stuff</h2>
-<!-- Custom "repo card" box structure (matches your screenshot style) -->
+<!-- Custom "repo card" box structure -->
 <details open>
   <summary><h2 align="center">📘 My Curated GitHub Lists</h2></summary>
 
